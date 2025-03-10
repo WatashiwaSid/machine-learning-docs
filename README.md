@@ -1,3 +1,4 @@
+![Black Simple Inspirational Quotes New LinkedIn Banner (1)](https://github.com/user-attachments/assets/f43fe96c-b932-4cdb-b882-d088cdf82b48)
 # INTRODUCTION TO AI/ML
 - ML is a subset of AI.
 - AI is the meta domain that encompasses several specialized domains of learning designed to address specific tasks and challenges.  
@@ -50,6 +51,7 @@ _Please note that **accuracy** is not the recommended metric for the evaluation 
 | Topic      | Concepts | Python Libraries | 
 | ----------- | ----------- | ----------- |
 | [feature scaling](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/classification/fscaling.py) | Standardization, Normalization | Pandas, Scikit Learn | 
+| [K-Nearest-Neighbours](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/classification/knn_breastcancer.py) | Eucledian Distance | Scikit Learn, Seaborn |
 
 
 
