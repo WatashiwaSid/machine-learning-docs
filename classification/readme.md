@@ -6,3 +6,8 @@
 | Algorithm      | Concepts | Python Libraries | 
 | ----------- | ----------- | ----------- |
 | [K-Nearest-Neighbours](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/classification/knn_breastcancer.py) | Eucledian Distance | Pandas, Scikit Learn, Seaborn | 
+
+
+## Matplot/Seaborn Charts
+
+![irisknn](https://github.com/user-attachments/assets/1dcee34c-01e8-437e-be24-2291cc5658fc)
