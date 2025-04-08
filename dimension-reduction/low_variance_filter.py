@@ -26,7 +26,7 @@ print(rdf)
 c = int(input("Do you want to save reduced features to a new file? (1: YES, 0: NO) : "))
 if(c):
   filename = sys.argv[0]
-  with open(f"{filename}_reduced.csv", "x") as file:
-    pass
+  with open(f"{filename}_reduced.csv", "x+") as file:
+    file.write(rdf.to_string())
   file.close()
   print(f"Reduced features are saved to {filename}_reduced.csv")
