@@ -50,10 +50,9 @@ _Please note that **accuracy** is not the recommended metric for the evaluation 
 ## Moving Forward
 | Topic      | Concepts | Python Libraries | 
 | ----------- | ----------- | ----------- |
-| [classification](https://github.com/WatashiwaSid/machine-learning-docs/tree/main/classification) | Standardization, Normalization | Pandas, Scikit Learn | 
+| [classification](https://github.com/WatashiwaSid/machine-learning-docs/tree/main/classification) | Classification Algorithms | Pandas, Scikit Learn | 
 | [regression](https://github.com/WatashiwaSid/machine-learning-docs/tree/main/regression) | regression, gradient descent | Scikit Learn, Numpy |
 | [clustering](https://github.com/WatashiwaSid/machine-learning-docs/tree/main/clustering) | hard and soft clustering | Scikit Learn, Seaborn |
 | [dimensionality reduction](https://github.com/WatashiwaSid/machine-learning-docs/tree/main/dimension-reduction) | pca, low variance, high corelation | Scikit Learn, Seaborn |
 
 
-### This repository is under development. More learning resources will be added soon. Report misinformation by raising an issue. 
