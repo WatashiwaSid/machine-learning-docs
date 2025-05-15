@@ -14,3 +14,6 @@
 - Data points share a degree of relationships with clusters based on probability.
 - Overlapping clusters are possible.
 - Example - **Fuzzy C Means Clustering**, **DBSCAN** (Density-Based Spatial Clustering of Applications with Noise)
+
+## Determining the optimum Value of K in K-Means
+![image](https://github.com/user-attachments/assets/55aec1a9-43f3-41b9-a290-abbaf813ba0b)
