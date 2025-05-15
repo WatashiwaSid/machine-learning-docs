@@ -9,7 +9,6 @@ Author: Siddhant Nautiyal
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
-from sklearn.metrics import silhouette_score
 
 df = pd.read_csv("iris.csv")
 df = df.drop('variety', axis=1)
