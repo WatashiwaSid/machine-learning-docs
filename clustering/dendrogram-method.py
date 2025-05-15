@@ -7,8 +7,6 @@ Author: Siddhant Nautiyal
 
 import pandas as pd
 import matplotlib.pyplot as plt
-from sklearn.cluster import KMeans
-from sklearn.metrics import silhouette_score
 import scipy.cluster.hierarchy as sc
 
 df = pd.read_csv("iris.csv")
