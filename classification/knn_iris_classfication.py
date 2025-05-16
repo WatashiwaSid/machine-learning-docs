@@ -15,7 +15,7 @@ x = df.drop('variety', axis=1)
 y = df['variety']
 
 #train test split
-x_train, x_test, y_train, y_test = train_test_split(x, y, random_state=40)
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.25, random_state=40)
 
 #model train
 knn = KNeighborsClassifier(n_neighbors=5)
