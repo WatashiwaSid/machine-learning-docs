@@ -5,7 +5,8 @@
 
 | Algorithm      | Concepts | Notes | 
 | ----------- | ----------- | ----------- |
-| [K-Nearest-Neighbours](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/classification/knn_breastcancer.py) | Eucledian Distance | KNN NOTES| 
+| [K-Nearest-Neighbours](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/classification/knn.py) | Eucledian Distance | - | 
 | [Decision Tress](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/classification/decision_tree.py) | Entropy, Gini Index | [DECISION TREE NOTES](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/classification/notes/decision_tree.pdf) | 
-| Naive Baye's Classifier | Naive Baye's Theorem | PROBABILITY NOTES|
+| [Naive Baye's Classifier](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/classification/naivebayes.py) | Naive Baye's Theorem | [PROBABILITY NOTES](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/classification/notes/probability-theory.pdf)|
+| [Support Vector Machine](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/classification/supportvectors.py) | Support Vectors | - |
 | [Logistic Regression](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/regression/logistic_regression.py) | Sigmoid Function | [ LR NOTES](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/regression/logistic-regression.pdf)
