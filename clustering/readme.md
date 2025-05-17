@@ -3,6 +3,15 @@
 - This is different than classification because we are making clusters, not predicting new data points in those clusters.
 - Clustering could either be **hard** or **soft**.
 
+| Algorithm      | Concepts |
+| ----------- | ----------- | 
+| [KMEANS](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/clustering/kmeans.py) | Centroids |
+| [KMEANS ELBOW METHOD](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/clustering/elbow-method.py) | WCSS Coefficient | 
+| [HIERARCHIAL](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/clustering/hierachial.py) | Agglomerative Clustering |
+| [HIERARCHIAL - DENDROGRAM METHOD](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/clustering/dendrogram-method.py) | Dendrograms |
+| [DBSCAN](https://github.com/WatashiwaSid/machine-learning-docs/blob/main/clustering/dbscan.py) | Core Points |
+
+
 ## Hard Clustering
 - In hard clustering, each data point belongs to one and only one cluster.
 - A data point must belong to 1 and only one cluster.
